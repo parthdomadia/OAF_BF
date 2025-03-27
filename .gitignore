@@ -175,3 +175,4 @@ cython_debug/
 
 #model files
 .pth
+trained_model_alt.pth
